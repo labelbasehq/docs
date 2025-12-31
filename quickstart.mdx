@@ -5,8 +5,15 @@ description: "Read this if you want to keep your website form"
 
 ## Install the script
 
-Go on your website `head` html tag. And add this script : 
+Go on your website `head` html tag. And add this script :
 
-`<script src="https://labelbase.co/capture.js" data-api-key="lb_xxx" data-form="#demo-form"> </script>`
+```
+<script 
+  src="https://labelbase.co/capture.js" 
+  data-api-key="<YOUR_LABEL_API_KEY>" 
+  data-form="<CSS_ID_OF_YOUR_FORM>"
+  defer
+></script>
+```
 
 Replace data-form with the id of your form. Also replace your data-api-key with a key you will get on your dashboard.
