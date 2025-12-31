@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "LabelBase Doc Center",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#f54a00",
+    "light": "#f54a00",
+    "dark": "#f54a00"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/favicon.ico",
   "navigation": {
     "tabs": [
       {
@@ -24,10 +24,7 @@
       }
     ]
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/images/LABELBASE(9).png",
   "navbar": {
     "links": [
       {
