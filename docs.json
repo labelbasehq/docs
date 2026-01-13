@@ -24,6 +24,7 @@
           {
             "group": "Getting started",
             "pages": [
+              "guides/getting-started/catalog",
               {
                 "group": "Releases",
                 "pages": [
