@@ -14,17 +14,9 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Integrations",
-            "pages": [
-              "guides/getting-started/notion-integration",
-              "index",
-              "quickstart"
-            ]
-          },
-          {
             "group": "Getting started",
             "pages": [
-              "guides/getting-started/catalog",
+              "guides/getting-started/submissions",
               {
                 "group": "Releases",
                 "pages": [
@@ -33,7 +25,16 @@
                   "guides/getting-started/releases"
                 ]
               },
-              "guides/getting-started/submissions"
+              "guides/getting-started/catalog",
+              "guides/getting-started/playlists"
+            ]
+          },
+          {
+            "group": "Integrations",
+            "pages": [
+              "guides/getting-started/notion-integration",
+              "index",
+              "quickstart"
             ]
           }
         ]
