@@ -22,12 +22,6 @@
             ]
           },
           {
-            "group": "AI",
-            "pages": [
-              "guides/ai/music-ai"
-            ]
-          },
-          {
             "group": "Getting started",
             "pages": [
               "guides/getting-started/workspaces",
@@ -45,6 +39,12 @@
               "guides/getting-started/untitled-page",
               "guides/getting-started/labels",
               "guides/getting-started/storage"
+            ]
+          },
+          {
+            "group": "AI",
+            "pages": [
+              "guides/ai/music-ai"
             ]
           },
           {
