@@ -16,7 +16,6 @@
           {
             "group": "Getting started",
             "pages": [
-              "guides/getting-started/untitled-page",
               "guides/getting-started/submissions",
               {
                 "group": "Releases",
@@ -27,7 +26,9 @@
                 ]
               },
               "guides/getting-started/catalog",
-              "guides/getting-started/playlists"
+              "guides/getting-started/playlists",
+              "guides/getting-started/untitled-page",
+              "guides/getting-started/labels"
             ]
           },
           {
