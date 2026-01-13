@@ -14,11 +14,17 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Integrations",
             "pages": [
               "guides/getting-started/notion-integration",
               "index",
               "quickstart"
+            ]
+          },
+          {
+            "group": "Getting started",
+            "pages": [
+              "guides/getting-started/submissions"
             ]
           }
         ]
