@@ -27,6 +27,7 @@
               {
                 "group": "Releases",
                 "pages": [
+                  "guides/getting-started/releases/release-tracks",
                   "guides/getting-started/releases/release-page",
                   "guides/getting-started/releases"
                 ]
