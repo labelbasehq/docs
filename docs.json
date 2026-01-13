@@ -16,6 +16,7 @@
           {
             "group": "Getting started",
             "pages": [
+              "guides/getting-started/untitled-page",
               "guides/getting-started/submissions",
               {
                 "group": "Releases",
