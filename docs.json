@@ -24,6 +24,7 @@
           {
             "group": "Getting started",
             "pages": [
+              "guides/getting-started/releases",
               "guides/getting-started/submissions"
             ]
           }
